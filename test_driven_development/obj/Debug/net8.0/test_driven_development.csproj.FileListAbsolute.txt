@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\test_driven_development\test_driven_development\bin\Debug\net8.0\test_driven_development.exe
+C:\Users\Pedro\source\repos\test_driven_development\test_driven_development\bin\Debug\net8.0\test_driven_development.deps.json
+C:\Users\Pedro\source\repos\test_driven_development\test_driven_development\bin\Debug\net8.0\test_driven_development.runtimeconfig.json
+C:\Users\Pedro\source\repos\test_driven_development\test_driven_development\bin\Debug\net8.0\test_driven_development.dll
+C:\Users\Pedro\source\repos\test_driven_development\test_driven_development\bin\Debug\net8.0\test_driven_development.pdb
+C:\Users\Pedro\source\repos\test_driven_development\test_driven_development\obj\Debug\net8.0\test_driven_development.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\test_driven_development\test_driven_development\obj\Debug\net8.0\test_driven_development.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\test_driven_development\test_driven_development\obj\Debug\net8.0\test_driven_development.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\test_driven_development\test_driven_development\obj\Debug\net8.0\test_driven_development.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\test_driven_development\test_driven_development\obj\Debug\net8.0\test_driven_development.dll
+C:\Users\Pedro\source\repos\test_driven_development\test_driven_development\obj\Debug\net8.0\refint\test_driven_development.dll
+C:\Users\Pedro\source\repos\test_driven_development\test_driven_development\obj\Debug\net8.0\test_driven_development.pdb
+C:\Users\Pedro\source\repos\test_driven_development\test_driven_development\obj\Debug\net8.0\test_driven_development.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\test_driven_development\test_driven_development\obj\Debug\net8.0\ref\test_driven_development.dll
